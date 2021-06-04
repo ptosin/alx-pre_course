@@ -1,3 +1,3 @@
 
-_emphasize_
-# alx-pre_course. Alx softtware engineering projects.# 
+_My first project in Alx software engineering program._
+
